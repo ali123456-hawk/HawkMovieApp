@@ -1,0 +1,43 @@
+.searchBar{
+  
+    width: 60%;
+    margin: 41px auto;  
+    text-align: center;
+    height: 50px;
+}
+
+.searchInput{
+height:70%;   
+width: 30%;
+border-radius: 20px;    
+position: relative;
+padding-left: 10px;
+font-size: 20px;
+}
+
+.searchIcon{
+    position: absolute;
+    right: 42%;
+    top: 115px;
+    color: black;
+}
+
+@media screen and (max-width:1000px) {
+    .searchBar{
+  
+        width: 100%;
+        
+    }
+
+    .searchInput{
+        width: 35%;
+    }
+
+
+    .searchIcon{
+        position: absolute;
+        top: 115px;
+        left: 62%;
+       
+    }
+}
