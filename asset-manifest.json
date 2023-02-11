@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HawkMovieApp/static/css/main.39a6c37f.css",
+    "main.js": "/HawkMovieApp/static/js/main.fe7810e0.js",
+    "index.html": "/HawkMovieApp/index.html",
+    "main.39a6c37f.css.map": "/HawkMovieApp/static/css/main.39a6c37f.css.map",
+    "main.fe7810e0.js.map": "/HawkMovieApp/static/js/main.fe7810e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a6c37f.css",
+    "static/js/main.fe7810e0.js"
+  ]
+}
